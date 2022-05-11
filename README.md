@@ -1,12 +1,5 @@
 ## Hello there!
 
-### My name is Anthony Ngo, a front-end developer from San Jose, California.
-
-I am currently working on building my portfolio using HTML, CSS, and Javascript. For more complex projects, I use React. 
-
-Thanks for your time!
-
-
 <!--
 **AntGNgo/AntGNgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
